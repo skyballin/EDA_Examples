@@ -1,0 +1,7 @@
+TSS Data Set Workflow
+1) Get data into pandas dataframe
+2) Get data into MongoDB
+3) Analyze descriptive statistics for all traffic
+4) Analyze by subject
+5) Analyze by writer
+6) Analyze by date

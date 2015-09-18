@@ -1,0 +1,13 @@
+NBS Workflow
+1) Get data from API into pandas dataframe
+2) Get data into MongoDB
+3) Explore the data to understand
+4) Map out all variable descriptions
+5) Think about the whole picture logically
+6) Descriptive stats
+7) Initial model
+8) Scatterplokt
+9) Analyze all variables
+10) Final model
+11) Test model
+12) Finalize paper
